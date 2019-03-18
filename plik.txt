@@ -1,4 +1,6 @@
-Adam Majewski ,Bartek Bartoszewicz
-18.03.2019
+Adam Majewski
+18.03.2020
 
 Zajêcia z GIT'a
+
+nowa linia Bartek
