@@ -4,3 +4,4 @@ Adam Majewskiajsdklj
 Zajêcia z GIT'a
 
 nowa linia Bartek
+jakies zmiany
