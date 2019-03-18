@@ -1,4 +1,4 @@
 Adam Majewski ,Bartek Bartoszewicz
 18.03.2019
 
-Zajêcia z GIT
+Zajêcia z GIT'a
